@@ -1,27 +1,15 @@
-# Macroeconomics Projects
+## 📄 Featured Reports
 
-This repository contains selected reports developed for Intermediate Macroeconomics at BYU–Idaho. Each report applies key macroeconomic models to real-world scenarios using data and analytical frameworks covered in the course.
+These are four of my strongest macroeconomic reports, each applying key models to real-world data or simulations using frameworks taught in Intermediate Macroeconomics:
 
-## Included Reports
+- **[Solow Growth Model](reports/solow_model.pdf)**  
+  Explores capital accumulation, convergence, and the steady state using the Solow framework. Includes simulations of savings and population growth effects on output over time.
 
-- **Solow Growth Model**  
-  Explores capital accumulation, steady-state convergence, and the effects of savings and population growth rates.
+- **[Empirical Estimation of the IS Curve](reports/Should_Do_Ch_11_Empirical_Estimation_of_the_IS_Curve.pdf)**  
+  Uses FRED data to estimate the sensitivity of investment to interest rates. Demonstrates regression analysis and empirical testing of theoretical parameters.
 
-- **IS-MP Framework**  
-  Simulates fiscal and monetary policy impacts using the IS-MP model, including dynamic shocks and policy response scenarios.
+- **[IS-MP Simulations and Policy Analysis](reports/Should_Do_Ch_12_IS_MP_Simulations_Report.pdf)**  
+  Runs simulations of shocks (COVID-19, housing bubbles, productivity shifts) within the IS-MP model. Recommends monetary policy responses based on real-world logic and model calibration.
 
-- **AD-AS Analysis**  
-  Examines aggregate demand and supply shifts under inflationary pressure and economic downturn conditions.
-
-- **Okun’s Law**  
-  Analyzes the empirical relationship between GDP growth and changes in unemployment using historical U.S. data.
-
-## Tools Used
-
-- Quarto (.qmd)
-- Overleaf (LaTeX) for document formatting and typesetting  
-- Data from FRED, World Bank, and BEA
-
-## Notes
-
-This repository is report-only for now. Future updates may include code notebooks and data files for each report.
+- **[Growth Accounting and Cross-Country Comparison](reports/Should_Do_Ch_4_Growth_Accounting_Report.pdf)**  
+  Analyzes GDP differences across countries using Cobb-Douglas and Hall-Jones models. Includes discussion on human capital, TFP, and misallocation. Accompanied by Excel-based data analysis.
