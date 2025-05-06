@@ -6,16 +6,16 @@ This repository contains selected reports developed for Intermediate Macroeconom
 
 These are four of my strongest macroeconomic reports, each applying core models to practical questions and/or real data:
 
-- **[Solow Growth Model](macroeconomics_projects/solow_model.pdf)**  
+- **[Solow Growth Model](reports/solow_model.pdf)**  
   Explores capital accumulation, convergence, and the steady state using the Solow framework. Includes simulations of savings and population growth effects on output over time.
 
-- **[Empirical Estimation of the IS Curve](reports/Should_Do_Ch_11_Empirical_Estimation_of_the_IS_Curve.pdf)**  
+- **[Empirical Estimation of the IS Curve](reports/is_curve_empirical.pdf)**  
   Uses FRED data to estimate the sensitivity of investment to interest rates. Demonstrates regression analysis and empirical testing of theoretical parameters.
 
-- **[IS-MP Simulations and Policy Analysis](reports/Should_Do_Ch_12_IS_MP_Simulations_Report.pdf)**  
+- **[IS-MP Simulations and Policy Analysis](reports/is_mp_simulations.pdf)**  
   Runs simulations of shocks (COVID-19, housing bubbles, productivity shifts) within the IS-MP model. Recommends monetary policy responses based on real-world logic and model calibration.
 
-- **[Growth Accounting and Cross-Country Comparison](reports/Should_Do_Ch_4_Growth_Accounting_Report.pdf)**  
+- **[Growth Accounting and Cross-Country Comparison](reports/growth_accounting.pdf)**  
   Analyzes GDP differences across countries using Cobb-Douglas and Hall-Jones models. Includes discussion on human capital, TFP, and misallocation. Accompanied by Excel-based data analysis.
 
 ## Tools Used
