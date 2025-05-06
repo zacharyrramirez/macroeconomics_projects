@@ -6,7 +6,7 @@ This repository contains selected reports developed for Intermediate Macroeconom
 
 These are four of my strongest macroeconomic reports, each applying core models to practical questions and/or real data:
 
-- **[Solow Growth Model](reports/solow_model.pdf)**  
+- **[Solow Growth Model](macroeconomics_projects/solow_model.pdf)**  
   Explores capital accumulation, convergence, and the steady state using the Solow framework. Includes simulations of savings and population growth effects on output over time.
 
 - **[Empirical Estimation of the IS Curve](reports/Should_Do_Ch_11_Empirical_Estimation_of_the_IS_Curve.pdf)**  
